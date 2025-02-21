@@ -2,7 +2,7 @@
 
 Linear Filtering in Digital Signal Processing is a technique used to modify or extract information from signals. It involves putting an input signal x[n] using a filter h[n] to produce an output y[n], usually via convolution: 
                              
-                                                                                         y[n] = x[n] * h[n] 
+                                                                         y[n] = x[n] * h[n] 
 
 
 **Applications of Linear Filtering:**
